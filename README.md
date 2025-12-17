@@ -1,5 +1,7 @@
 ﻿# speech-emotion-recognition-app
 
+ https://ser-app-af6i6mix9rrtzxxaxh7wtg.streamlit.app/
+
 # CNN-LSTM Speech Emotion Recognition System
 
 ## 🎯 Overview
